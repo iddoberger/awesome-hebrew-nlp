@@ -1,4 +1,4 @@
-# awesome-hebrew-nlp[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-hebrew-nlp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Please feel free to create [pull requests](https://github.com/iddoberger/awesome-hebrew-nlp/pulls), or email Iddo Berger (iddoberger@gmail.com) to add links.
 
