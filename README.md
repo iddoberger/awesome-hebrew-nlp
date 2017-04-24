@@ -5,21 +5,21 @@ Please feel free to create [pull requests](https://github.com/iddoberger/awesome
 
 ## Links
 
-http://www.mila.cs.technion.ac.il/ - Knowledge center for processing Hebrew
+http://www.mila.cs.technion.ac.il/ - MILA - Technion's Knowledge Center for Processing Hebrew
 
-https://hlp.nite.org.il/Default.aspx - פרויקט השפה העברית של מאל"ו
+https://hlp.nite.org.il/Default.aspx - Hebrew Language Project by the Israeli National Institute for Testing and Evaluation - Morphology dictionary, tagged corpora, language models, tokenizers and more (site in Hebrew)
 
 https://github.com/habeanf/yap - Hebrew parser (Go)
 
 https://github.com/synhershko/HebMorph - Hebrew stemmer (Java)
 
-https://www.cs.bgu.ac.il/~nlpproj/ - Natural Language Processing Project in Ben-Gurion University
+https://www.cs.bgu.ac.il/~nlpproj/ - Natural Language Processing Project - Ben-Gurion University
 
 http://www.cs.technion.ac.il/~barhaim/MorphTagger/ - HMM based a part-of-speech tagger and word segmenter for Hebrew (Perl)
 
-https://github.com/UniversalDependencies/UD_Hebrew - Hebrew Tree bank
+https://github.com/UniversalDependencies/UD_Hebrew - Hebrew Dependency Treebank
 
-https://github.com/facebookresearch/fastText - includes word2vec in hebrew
+https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md - Pre-trained Hebrew word embeddings using Facebook's fastText
 
 
 ## License
