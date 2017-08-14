@@ -13,7 +13,13 @@ https://github.com/habeanf/yap - Hebrew parser (Go)
 
 https://github.com/synhershko/HebMorph - Hebrew stemmer (Java)
 
+https://www.cs.bgu.ac.il/~yoavg/software/hebtokenizer/ - Hebrew tokenizer (Python). [Note from author: quite simplistic, but works.]
+
 https://www.cs.bgu.ac.il/~nlpproj/ - Natural Language Processing Project - Ben-Gurion University
+
+https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebdepparser/ - Hebrew Dependency Parser (bundles a Hebrew pos-tagger and morphological segmenter as well). Parser is in Python+Cython, tagger in Java + Python-wrapper. [Note from parser's author: I am not maintaining the parser. For a newer, better supported dep parser, use YAP.]
+
+https://www.cs.bgu.ac.il/~yoavg/software/hebparsers/hebconstparser/ - Hebrew Constituency Parser.
 
 http://www.cs.technion.ac.il/~barhaim/MorphTagger/ - HMM based a part-of-speech tagger and word segmenter for Hebrew (Perl)
 
