@@ -27,6 +27,8 @@ https://github.com/UniversalDependencies/UD_Hebrew - Hebrew Dependency Treebank
 
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md - Pre-trained Hebrew word embeddings using Facebook's fastText
 
+https://github.com/NLPH/NLPH - An initiative meant to bring Natural Language Processing capabilities in Hebrew to a level on par with international industry standards, keeping up with state-of-the-art techniques by providing open source implementations to new algorithms and tools, and making these capabilities publicly available for both public and commercial use.
+
 
 ## License
 
