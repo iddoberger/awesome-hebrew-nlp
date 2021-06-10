@@ -33,6 +33,8 @@ https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md -
 
 https://github.com/avichaychriqui/HeBERT - HeBERT: Pre-trained BERT for Polarity Analysis and Emotion Recognition
 
+https://github.com/OnlpLab/AlephBERT/ - AlephBERT: a Pre-trained Language Model to Start Off your Hebrew NLP Application
+
 
 ## License
 
