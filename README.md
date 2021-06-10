@@ -29,7 +29,7 @@ http://www.cs.technion.ac.il/~barhaim/MorphTagger/ - HMM based a part-of-speech 
 
 https://github.com/UniversalDependencies/UD_Hebrew - Hebrew Dependency Treebank
 
-https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md - Pre-trained Hebrew word embeddings using Facebook's fastText
+https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md - Pre-trained Hebrew word embeddings using Facebook's fastText
 
 https://github.com/avichaychriqui/HeBERT - HeBERT: Pre-trained BERT for Polarity Analysis and Emotion Recognition
 
