@@ -5,6 +5,8 @@ Please feel free to create [pull requests](https://github.com/iddoberger/awesome
 
 ## Links
 
+https://data.gov.il/dataset/corpus - Morphologically tagged corpus
+
 https://github.com/NLPH/NLPH - An initiative meant to bring Natural Language Processing capabilities in Hebrew to a level on par with international industry standards, keeping up with state-of-the-art techniques by providing open source implementations to new algorithms and tools, and making these capabilities publicly available for both public and commercial use.
 
 https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew - Neural Sentiment Analyzer for Modern Hebrew
