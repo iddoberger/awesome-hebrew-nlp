@@ -41,7 +41,6 @@ https://github.com/roni5604/hebrew-words-db - Public-domain (CC0) list of 67,000
 https://huggingface.co/shoresh-labs/seter-pii-he-ar - Seter: open (MIT) PII models for Hebrew, Arabic and English, including standalone first names. In-browser ONNX demo: https://huggingface.co/spaces/yinonov/seter-demo
 
 
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
