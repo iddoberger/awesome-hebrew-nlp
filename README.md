@@ -38,6 +38,8 @@ https://github.com/avichaychriqui/HeBERT - HeBERT: Pre-trained BERT for Polarity
 https://github.com/OnlpLab/AlephBERT/ - AlephBERT: a Pre-trained Language Model to Start Off your Hebrew NLP Application
 
 https://github.com/roni5604/hebrew-words-db - Public-domain (CC0) list of 67,000+ Hebrew words, including plurals, verb conjugations and adjective forms. Plain TXT/JSON/CSV, no niqqud.
+https://huggingface.co/shoresh-labs/seter-pii-he-ar - Seter: open (MIT) PII models for Hebrew, Arabic and English, including standalone first names. In-browser ONNX demo: https://huggingface.co/spaces/yinonov/seter-demo
+
 
 
 ## License
