@@ -39,6 +39,8 @@ https://github.com/OnlpLab/AlephBERT/ - AlephBERT: a Pre-trained Language Model 
 
 https://github.com/roni5604/hebrew-words-db - Public-domain (CC0) list of 67,000+ Hebrew words, including plurals, verb conjugations and adjective forms. Plain TXT/JSON/CSV, no niqqud.
 
+https://github.com/RivoksLab/tesseract-heb-rivok - heb_rivok: open (Apache-2.0) Tesseract models for printed Hebrew, including old print and niqqud. Drop-in .traineddata files, also on pip (tesseract-heb-rivok).
+
 
 ## License
 
