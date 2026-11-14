@@ -37,6 +37,9 @@ https://github.com/avichaychriqui/HeBERT - HeBERT: Pre-trained BERT for Polarity
 
 https://github.com/OnlpLab/AlephBERT/ - AlephBERT: a Pre-trained Language Model to Start Off your Hebrew NLP Application
 
+https://pody.io/glossary - Hebrew podcast & audio engineering glossary — 384 terms with cross-references to English equivalents (CC-BY-SA, queryable via MCP at https://pody.io/api/mcp)
+
+https://pody.io/api/mcp - Pody MCP Server — public read-only Model Context Protocol server exposing Israeli podcast marketplace data, glossary lookup, and a 2026 industry report. Multilingual (HE/EN/AR/RU).
 https://github.com/roni5604/hebrew-words-db - Public-domain (CC0) list of 67,000+ Hebrew words, including plurals, verb conjugations and adjective forms. Plain TXT/JSON/CSV, no niqqud.
 https://huggingface.co/shoresh-labs/seter-pii-he-ar - Seter: open (MIT) PII models for Hebrew, Arabic and English, including standalone first names. In-browser ONNX demo: https://huggingface.co/spaces/yinonov/seter-demo
 
