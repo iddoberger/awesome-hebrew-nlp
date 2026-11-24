@@ -45,6 +45,8 @@ https://huggingface.co/shoresh-labs/seter-pii-he-ar - Seter: open (MIT) PII mode
 
 https://github.com/RivoksLab/tesseract-heb-rivok - heb_rivok: open (Apache-2.0) Tesseract models for printed Hebrew, including old print and niqqud. Drop-in .traineddata files, also on pip (tesseract-heb-rivok).
 
+https://huggingface.co/datasets/HeOCR/p-mod-open-v0 - Benchmark for modern unpointed Hebrew OCR with 31 pages and 65 images. [Zenodo DOI](https://doi.org/10.5281/zenodo.24505278) · [Leaderboard](https://huggingface.co/spaces/HeOCR/hebrew-ocr-leaderboard) · [heocr-bench](https://github.com/HeOCR/heocr-bench).
+
 
 ## License
 
